@@ -20,6 +20,13 @@ The purpose of this tool is to assist the marketing department in quickly analyz
 
 ---
 
+## Install Dependencies
+Make sure you have Python installed, then install the required packages:
+```sh
+pip install -r requirements.txt
+```
+---
+
 ## Input Requirements
 
 The input data must be provided as a CSV file.
